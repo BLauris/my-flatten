@@ -1,5 +1,3 @@
-require 'pry'
-
 class Squash
   
   class << self
